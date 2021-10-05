@@ -1,0 +1,40 @@
+© 2020 - 2021 CalcOS. All Rights Reserved.
+
+#The calculator requires Python you can find using the link at the bottom ↓↓↓
+
+Hey there! if you didnt know yet my name is Jack Warren,
+
+I've made this python calculator open scource so feel free to download it, share it to 
+anyone you meet, greet or want to defeat in maths! Just try not to edit and redistribute it as your own. 
+I plan to have more features coming so stay tuned!
+
+This Patch Brings many new things!
+- Complete Overhaul and optimization to the calculator
+- Now everything is defined as a function, slower initial load, faster loads after!
+- Anti-Crash measures! No more having to reopen the file if you accidentally make it mad!
+- Included Statistics! (Mean, Median, mode?, Variance and Standard Deviation)
+
+**Im a beginer still, please leave any sugestions in the GitHub comments or contact me on my website stated below**
+
+- Loading screen is faster (Reduced original code for compound interest by about 500 lines)
+- I legally Own It! Yay! No more stealies!
+- CalcOS is even Kinder once an operation has been complete
+- You can now report bugs!
+- Statistics, bug report and compount interest has had major improvements
+- Quality of life improvements
+
+This package includes:
+-Version 1.2 of the CalcOS (later than the 2.2)
+-Documentation for the Functions and commonly used things throughout the project
+-A freindly letter from the developer
+
+Got the base pythagorean code from:
+https://www.w3resource.com/python-exercises/math/python-math-exercise-68.php
+
+Got the Pie ASCII art from "Riitta Rasimus" at:
+https://ascii.co.uk/art/pie
+ ____________________________________________________________
+/|                                                          |\
+ |Download Python here if you havent, I truly recommend it! |
+ |https://www.python.org/downloads/                         |
+ |__________________________________________________________| <--Get it
